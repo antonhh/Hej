@@ -1,5 +1,5 @@
 public class Main {
 
- String hej;
+ String heeeeey;
  int hej2;
 }
